@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 da39a3ee5e6b4b0d3255bfef95601890afd80709 CHANGES
+SHA1 e670715603158c2dd4e7333779ff51717f21559a CHANGES
 SHA1 2519312e0754fdd1f8a4beb1dcc2fc84e463b20a MANIFEST
-SHA1 4a651b126e1d1ea4e8183bfd4ab007a57d216809 META.yml
-SHA1 cb3eb5d456afad1c01b8b2964f264206fdfe7e35 Makefile.PL
+SHA1 6522da610aec1fdec1919df08573e358f0409982 META.yml
+SHA1 f69f96cbd4b64591ad42f2edcdffaee78c4a532e Makefile.PL
 SHA1 017bedfcba1e0c72b36301e6ef21b8712b84d175 inc/Module/Install.pm
 SHA1 b1a70869c098ba602151631386fc510b5bfd3511 inc/Module/Install/Base.pm
 SHA1 dd7313db23119d49ae78593bfa576554fb5b0fd8 inc/Module/Install/Can.pm
@@ -26,12 +26,12 @@ SHA1 176d68fe7c07b6ab7cfe09093078b8127bbde786 inc/Module/Install/Makefile.pm
 SHA1 8b37b38215d14f922b3d5132ce33d11d21d531ba inc/Module/Install/Metadata.pm
 SHA1 7eb44b00058c44795038d7fa4c0c77470f20a7f8 inc/Module/Install/Win32.pm
 SHA1 6d05967a5e1680b5f118315aaa6b8a1e143d79d8 inc/Module/Install/WriteAll.pm
-SHA1 89a3ffe67e137e0329d9cfda04a8283a009bebb0 lib/Sub/Multi.pm
-SHA1 0bfee3ea67454672bc2ab75ed6b7b437a5325bec t/01basic.t
+SHA1 de587cd24017fd42d785f766c41c6063753e6426 lib/Sub/Multi.pm
+SHA1 0117e88155e86e23dc67512674bfbadc4aaeb2ee t/01basic.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.0 (FreeBSD)
+Version: GnuPG v1.4.3 (FreeBSD)
 
-iD8DBQFEr17Wk1XldlEkA5YRAimbAKCBQs4B9Yhxqa7XJr9ZuMYLvGdA4QCfYj9W
-hPJvyquDw3uW0U0dUTD05GI=
-=0hrn
+iD8DBQFEstgGk1XldlEkA5YRAgLdAJwJ51JwL94PQop9PGdEQ4mCIeYdkQCgi1+h
+xJq3jmDgBXwF/45ZshEvNYI=
+=qEJ/
 -----END PGP SIGNATURE-----
