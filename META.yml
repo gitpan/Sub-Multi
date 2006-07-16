@@ -12,4 +12,4 @@ requires:
   Class::Multimethods::Pure: 0.11
   Data::Bind: 0.26
   Test::Exception: 0
-version: 0.001_2
+version: 0.002
